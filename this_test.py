@@ -2,7 +2,7 @@
 import re
 import time
 
-time.sleep(180)
+time.sleep(10)
 line = "Cats are smart.er than dogs"
 
    print(line)
