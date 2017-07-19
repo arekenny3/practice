@@ -3,6 +3,6 @@ import re
 import time
 
 time.sleep(10)
-line = "Cats are smart.er than dogs"
+line = "Cats are smarter than dogs"
 
-   print(line)
+print(line)
